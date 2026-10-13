@@ -1,21 +1,21 @@
-# نظام إدارة مدارس تعليم السياقة
-**Driving Schools Management System** · التصنيف: منصة تجارية
+# Driving Schools Management System · Classification: Commercial platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-منصة لمدارس تعليم السياقة لإدارة تسجيل المتدربين وجدولة المدربين وتتبع الدروس واختبارات الجاهزية للترخيص.
+## Project overview
+A platform for driving schools to manage trainee registration, instructor scheduling, lesson tracking, and licensing readiness tests.
 
-## أبرز النقاط
-- جدولة المتدربين والمدربين مع تتبع تقدم الدروس
-- وحدات اختبار نظري/عملي وتقارير الجاهزية
-- لوحة تحكم إدارية لإدارة عدة فروع لمدرسة التعليم
+## Key points
+- Scheduling of trainees and instructors with lesson progress tracking
+- Theory/practical test modules and readiness reports
+- Administrative dashboard for managing multiple branches of a driving school
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business platforms developer: requirements analysis and system development, including the admin dashboard, database, and reports.
 
-## التقنيات المستخدمة
-Admin Dashboard, Scheduling, Database
+## Technologies used
+- Admin Dashboard
+- Scheduling
+- Database
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

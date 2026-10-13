@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — نظام إدارة مدارس تعليم السياقة
+# 🛠️ Technologies Used — Driving Schools Management System
 
 - Admin Dashboard
 - Scheduling
